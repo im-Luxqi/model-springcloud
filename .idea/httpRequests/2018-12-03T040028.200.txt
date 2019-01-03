@@ -1,0 +1,1 @@
+Services: [eureka-consumer, eureka-client]
